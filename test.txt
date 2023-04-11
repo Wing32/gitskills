@@ -4,3 +4,4 @@ If i want to change something, i can try this.
 nono
 
 test, use vscode to pratice git usage
+test2, this is change in the wsl2
