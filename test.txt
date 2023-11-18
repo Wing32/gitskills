@@ -9,3 +9,4 @@ test3, i want to light my green point
 test4, this is a new machine, now i change this something
 test5, this is also a new machine, now, i change something in it.
 test6, this is a gpg key. maybe later and so on
+test7, try to add some new words
